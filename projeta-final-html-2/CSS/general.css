@@ -1,0 +1,121 @@
+body {
+
+	font-family:calibri;
+	background-image: url("../fitxers/background.jpg"); /*http://wallpoper.com/images/00/24/89/18/green-abstract_00248918.jpg*/
+	
+	margin-right:9%;
+	margin-left:9%;
+
+}
+
+#capcelera {  
+	background-image:url("../fitxers/portada.jpg");
+	background-size: 1113px 300px;
+	background-repeat: no-repeat;
+	height:300px;
+	border:solid;
+	-webkit-box-shadow: 8px 10px 17px -1px rgba(0,0,0,0.75);
+	-moz-box-shadow: 8px 10px 17px -1px rgba(0,0,0,0.75);
+}
+	
+	
+}
+
+
+
+#cos {
+
+
+
+}
+
+
+/*menu*/
+.menu{
+	
+	list-style:none;
+	padding:20px;
+	background-color:white;
+	margin-top:3%;
+	height:5px;
+	font-weight:bold;
+	border:solid;
+	font-size:1.2em;
+	padding-top:26px;
+	padding-bottom:15px;
+	-webkit-box-shadow: 8px 10px 17px -1px rgba(0,0,0,0.75);
+	-moz-box-shadow: 8px 10px 17px -1px rgba(0,0,0,0.75);
+		
+}
+
+.menu li{
+
+	margin:5px;
+    padding:50px;
+    float:left;
+	margin-top:-6%;
+	
+}
+
+.menu li a{
+  
+    width:130px;
+    height:16px;
+    text-decoration:none;
+    text-align:center;
+	padding:1%;
+    color:#000000;
+    background-color:white;
+	padding:5px;
+
+}
+
+.menu li a:hover{
+    color:#01DF01;
+    background-color:#000000;
+	text-shadow:7px 7px 7px green;
+
+}
+
+
+#temes {
+	margin-top:3%;
+	background-color:white;
+	padding:5%;
+	border:solid;
+	-webkit-box-shadow: 8px 10px 17px -1px rgba(0,0,0,0.75);
+	-moz-box-shadow: 8px 10px 17px -1px rgba(0,0,0,0.75);
+
+}
+
+
+/*peu*/
+
+#peu {
+ 
+ 	margin-top:3%;
+	background-color:white;
+	padding:5%;
+	border:solid;
+	-webkit-box-shadow: 8px 10px 17px -1px rgba(0,0,0,0.75);
+	-moz-box-shadow: 8px 10px 17px -1px rgba(0,0,0,0.75);
+
+}
+
+img {
+
+margin-bottom:3%;
+
+}
+
+#foto4 {
+
+margin-left:35%;
+}
+
+#foto5 {
+
+margin-left:85%;
+margin-top:-7%;
+float:right;
+}
